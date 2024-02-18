@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnericmagat" alt="johnericmagat" /></a> </p>
 
-- 🔭 I’m currently working on **Bachelor's Realty & Brokerage Inc. in-house software systems**
+- 🔭 I’m currently working on **Bachelors Realty & Brokerage Inc. in-house software solutions**
 
 - 📫 How to reach me **johnericmagat@gmail.com**
 
